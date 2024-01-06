@@ -43,9 +43,9 @@ Welcome to my Web Developer Portfolio! This repository contains the source code 
 
 ## Screenshots
 
-![Screenshot 1](./samples/Screenshot%202024-01-07%20015711.png| width=500)
-![Screenshot 2](./samples/Screenshot%202024-01-07%20015804.png| width=500)
-![Screenshot 3](./samples/Screenshot%202024-01-07%20015912.png| width=500)
+![Screenshot 1](./samples/Screenshot%202024-01-07%20015711.png | width=500)
+![Screenshot 2](./samples/Screenshot%202024-01-07%20015804.png | width=500)
+![Screenshot 3](./samples/Screenshot%202024-01-07%20015912.png | width=500)
 
 
 ## Contributing
