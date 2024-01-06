@@ -1,7 +1,7 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
-} */
+}
 
 /* shared style */
 
@@ -28,6 +28,7 @@ body{
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 0 200px;
 }
 
 nav>ul {
@@ -52,3 +53,18 @@ nav a{
     font-weight: 800;
 }
 
+/* header related style */
+
+.header{
+    background-color: #FFF8F3;
+}
+
+.banner{
+    padding: 30px 30px  30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-portrait{
+    width: 500px;
+}
