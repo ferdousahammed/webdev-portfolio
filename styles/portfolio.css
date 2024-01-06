@@ -23,6 +23,22 @@ body{
     font-weight: 700;
     padding: 15px 35px;
 }
+
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.section-desc{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
 /* nav related styles */
 
 nav{
@@ -57,14 +73,119 @@ nav a{
 
 .header{
     background-color: #FFF8F3;
+    background-image: url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 
 .banner{
-    padding: 30px 30px  30px 150px;
+    padding: 30px 30px  0px 150px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .banner .profile-portrait{
     width: 500px;
+}
+
+.banner-greeting{
+    font-size: 45px;
+    font-weight: 600;
+    color: #474747;
+    margin-bottom: 0px;
+}
+
+.banner-title{
+    font-size: 60px;
+    font-weight: 700;
+    color: #181818;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.car-obj{
+    margin-bottom: 30px;
+}
+
+
+.banner-content{
+    max-width: 500px;
+}
+
+
+/* main section style  */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+main section{
+    margin-top: 130px;
+}
+
+
+/* about section style  */
+
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: #FFF8F3;
+    margin: 130px 0;
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info{
+    text-align: center;
+    font-size: 20px;
+}
+
+.info-title{
+    color:#474747;
+    font-weight: 700;
+}
+
+.info-description, .section-description{
+    color: #757575;
+    font-weight: 400;
+}
+/* what i do  */
+
+#what-I-do{
+    margin: 0px 150px;
+}
+
+.skills-container{
+    padding-top: 50px;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.skill{
+    
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.skill-title{
+    padding-top: 30px;
+}
+
+.skill-description{
+    padding-top: 20px;
+    width: 200px;
+    height: 196px;
+    text-align: left;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
 }
