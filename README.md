@@ -32,7 +32,7 @@ Welcome to my Web Developer Portfolio! This repository contains the source code 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/ferdousahammed/webdev-portfolio.git
    ```
 
 2. Open the `index.html` file in your web browser.
@@ -43,9 +43,9 @@ Welcome to my Web Developer Portfolio! This repository contains the source code 
 
 ## Screenshots
 
-![Screenshot 1](./samples/Screenshot%202024-01-07%20015711.png)
-![Screenshot 2](./samples/Screenshot%202024-01-07%20015804.png)
-![Screenshot 3](./samples/Screenshot%202024-01-07%20015912.png)
+![Screenshot 1](./samples/Screenshot%202024-01-07%20015711.png| width=500)
+![Screenshot 2](./samples/Screenshot%202024-01-07%20015804.png| width=500)
+![Screenshot 3](./samples/Screenshot%202024-01-07%20015912.png| width=500)
 
 
 ## Contributing
