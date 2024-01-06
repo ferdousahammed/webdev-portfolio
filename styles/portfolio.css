@@ -21,7 +21,7 @@ body{
     border: 0;
     font-size: 20px;
     font-weight: 700;
-    padding: 15px 35px;
+    padding: 15px 25px;
 }
 
 .btn-primary:hover{
@@ -118,6 +118,21 @@ nav a{
 
 .banner-content{
     max-width: 500px;
+}
+
+.btn-flex{
+    display: flex;
+    gap: 30px;
+}
+
+.phone-btn{
+    background: #FFF8F3;
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+}
+
+.phone-btn:hover{
+    background: #ffc8a0dc;
 }
 
 
